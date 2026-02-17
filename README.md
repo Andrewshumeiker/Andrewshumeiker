@@ -53,8 +53,6 @@
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrewshumeiker&theme=github_dark)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andrewshumeiker&theme=github_dark)
 
-### Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Andrewshumeiker&theme=github-dark-blue&hide_border=true)
 
 ---
 
