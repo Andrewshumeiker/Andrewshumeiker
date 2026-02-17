@@ -58,9 +58,5 @@
 
 ---
 
-### Contribution Snake 🐍
-> After you create and run the GitHub Action, this will start showing automatically.
-
-![Snake animation](https://github.com/Andrewshumeiker/Andrewshumeiker/blob/output/github-contribution-grid-snake.svg)
 
 
