@@ -46,10 +46,6 @@
 
 ---
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrewshumeiker&show_icons=true&locale=en&layout=compact" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrewshumeiker&show_icons=true)
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrewshumeiker&show_icons=true&locale=en" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewshumeiker&layout=compact)
