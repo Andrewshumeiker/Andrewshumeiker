@@ -46,11 +46,21 @@
 
 ---
 
-### GitHub Stats:
+## GitHub Stats (Active alternatives)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Andrewshumeiker&show_icons=true)
+### Summary Cards
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrewshumeiker&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andrewshumeiker&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andrewshumeiker&theme=github_dark)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Andrewshumeiker&layout=compact)
+### Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Andrewshumeiker&theme=github-dark-blue&hide_border=true)
 
 ---
+
+### Contribution Snake 🐍
+> After you create and run the GitHub Action, this will start showing automatically.
+
+![Snake animation](https://github.com/Andrewshumeiker/Andrewshumeiker/blob/output/github-contribution-grid-snake.svg)
+
 
